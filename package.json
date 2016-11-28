@@ -4,7 +4,7 @@
   "license": "MIT",
   "version": "0.0.0",
   "dependencies": {
-    "electron-prebuilt": "^0.36.7",
-    "hyperscript": "^1.4.7"
+    "electron-prebuilt": "^1.4.5",
+    "hyperscript": "^2.0.2"
   }
 }
